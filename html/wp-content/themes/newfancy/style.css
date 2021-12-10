@@ -26,3 +26,16 @@ body {
 #cuerpo{
     background-color: #0c0c0c;
 }
+.imagen{
+    margin-right: 10px;
+}
+.entry{
+    display:flex;
+    flex-direction: row ;
+}
+.border{
+
+}
+.contenido {
+    padding: 0;
+}
